@@ -1,0 +1,430 @@
+[
+    {
+        "actions": [
+            {
+                "keyCode": 225,
+                "type": 6,
+                "id": 0
+            },
+            {
+                "keyCode": 51,
+                "type": 8,
+                "id": 1
+            },
+            {
+                "keyCode": 225,
+                "type": 7,
+                "id": 2
+            },
+            {
+                "keyCode": 46,
+                "type": 8,
+                "id": 3
+            }
+        ],
+        "id": 0,
+        "name": ":=",
+        "macro": "SHIFT ; SHIFT ="
+    },
+    {
+        "actions": [
+            {
+                "keyCode": 225,
+                "type": 6,
+                "id": 0
+            },
+            {
+                "keyCode": 82,
+                "type": 8,
+                "id": 1
+            },
+            {
+                "keyCode": 74,
+                "type": 8,
+                "id": 2
+            },
+            {
+                "keyCode": 225,
+                "type": 7,
+                "id": 3
+            }
+        ],
+        "id": 1,
+        "name": "up character select",
+        "macro": "SHIFT ↑ HOME SHIFT"
+    },
+    {
+        "actions": [
+            {
+                "keyCode": 225,
+                "type": 6,
+                "id": 0
+            },
+            {
+                "keyCode": 81,
+                "type": 8,
+                "id": 1
+            },
+            {
+                "keyCode": 77,
+                "type": 8,
+                "id": 2
+            },
+            {
+                "keyCode": 225,
+                "type": 7,
+                "id": 3
+            }
+        ],
+        "id": 2,
+        "name": "down character select",
+        "macro": "SHIFT ↓ END SHIFT"
+    },
+    {
+        "actions": [
+            {
+                "keyCode": 226,
+                "type": 6,
+                "id": 0
+            },
+            {
+                "keyCode": 80,
+                "type": 8,
+                "id": 1
+            },
+            {
+                "keyCode": 225,
+                "type": 6,
+                "id": 2
+            },
+            {
+                "keyCode": 79,
+                "type": 8,
+                "id": 3
+            },
+            {
+                "keyCode": 225,
+                "type": 7,
+                "id": 4
+            },
+            {
+                "keyCode": 226,
+                "type": 7,
+                "id": 5
+            }
+        ],
+        "id": 3,
+        "name": "select word",
+        "macro": "LEFT ⌥ ← SHIFT → SHIFT LEFT ⌥"
+    },
+    {
+        "actions": [
+            {
+                "keyCode": 74,
+                "type": 8,
+                "id": 0
+            },
+            {
+                "keyCode": 225,
+                "type": 6,
+                "id": 1
+            },
+            {
+                "keyCode": 77,
+                "type": 8,
+                "id": 2
+            },
+            {
+                "keyCode": 225,
+                "type": 7,
+                "id": 3
+            }
+        ],
+        "id": 4,
+        "name": "select line",
+        "macro": "HOME SHIFT END SHIFT"
+    },
+    {
+        "actions": [
+            {
+                "type": 6,
+                "keyCode": 225
+            },
+            {
+                "type": 8,
+                "keyCode": 54
+            },
+            {
+                "type": 7,
+                "keyCode": 225
+            },
+            {
+                "type": 8,
+                "keyCode": 46
+            }
+        ],
+        "id": 5,
+        "name": "<=",
+        "macro": "SHIFT , SHIFT ="
+    },
+    {
+        "actions": [
+            {
+                "type": 6,
+                "keyCode": 225
+            },
+            {
+                "type": 8,
+                "keyCode": 54
+            },
+            {
+                "type": 7,
+                "keyCode": 225
+            },
+            {
+                "type": 8,
+                "keyCode": 45
+            }
+        ],
+        "id": 6,
+        "name": "<-",
+        "macro": "SHIFT , SHIFT -"
+    },
+    {
+        "actions": [
+            {
+                "type": 8,
+                "keyCode": 45
+            },
+            {
+                "type": 6,
+                "keyCode": 225
+            },
+            {
+                "type": 8,
+                "keyCode": 55
+            },
+            {
+                "type": 7,
+                "keyCode": 225
+            }
+        ],
+        "id": 7,
+        "name": "->",
+        "macro": "- SHIFT . SHIFT"
+    },
+    {
+        "actions": [
+            {
+                "type": 6,
+                "keyCode": 224
+            },
+            {
+                "type": 8,
+                "keyCode": 8
+            },
+            {
+                "type": 7,
+                "keyCode": 224
+            },
+            {
+                "type": 8,
+                "keyCode": 40
+            }
+        ],
+        "id": 8,
+        "name": "new line below",
+        "macro": "CTRL E CTRL ENTER"
+    },
+    {
+        "actions": [
+            {
+                "type": 8,
+                "keyCode": 74
+            },
+            {
+                "type": 8,
+                "keyCode": 40
+            },
+            {
+                "type": 8,
+                "keyCode": 82
+            }
+        ],
+        "id": 9,
+        "name": "new line above",
+        "macro": "HOME ENTER ↑"
+    },
+    {
+        "actions": [
+            {
+                "type": 6,
+                "keyCode": 224
+            },
+            {
+                "type": 8,
+                "keyCode": 4
+            },
+            {
+                "type": 7,
+                "keyCode": 224
+            },
+            {
+                "type": 6,
+                "keyCode": 225
+            },
+            {
+                "type": 6,
+                "keyCode": 227
+            },
+            {
+                "type": 8,
+                "keyCode": 79
+            },
+            {
+                "type": 7,
+                "keyCode": 227
+            },
+            {
+                "type": 7,
+                "keyCode": 225
+            },
+            {
+                "type": 8,
+                "keyCode": 42
+            }
+        ],
+        "id": 10,
+        "name": "delete line",
+        "macro": "CTRL A CTRL SHIFT LEFT ⌘ → LEFT ⌘ SHIFT BACKSPACE"
+    },
+    {
+        "actions": [
+            {
+                "type": 8,
+                "keyCode": 81
+            },
+            {
+                "type": 8,
+                "keyCode": 81
+            },
+            {
+                "type": 8,
+                "keyCode": 81
+            }
+        ],
+        "id": 11,
+        "name": "down 3 lines",
+        "macro": "↓ ↓ ↓"
+    },
+    {
+        "actions": [
+            {
+                "type": 8,
+                "keyCode": 82
+            },
+            {
+                "type": 8,
+                "keyCode": 82
+            },
+            {
+                "type": 8,
+                "keyCode": 82
+            }
+        ],
+        "id": 12,
+        "name": "up 3 lines",
+        "macro": "↑ ↑ ↑"
+    },
+    {
+        "actions": [
+            {
+                "keyCode": 226,
+                "type": 6,
+                "id": 0
+            },
+            {
+                "keyCode": 80,
+                "type": 8,
+                "id": 1
+            },
+            {
+                "keyCode": 80,
+                "type": 8,
+                "id": 2
+            },
+            {
+                "keyCode": 80,
+                "type": 8,
+                "id": 3
+            },
+            {
+                "keyCode": 226,
+                "type": 7,
+                "id": 4
+            }
+        ],
+        "id": 13,
+        "name": "left 3 lines",
+        "macro": "LEFT ⌥ ← ← ← LEFT ⌥"
+    },
+    {
+        "actions": [
+            {
+                "keyCode": 226,
+                "type": 6,
+                "id": 0
+            },
+            {
+                "keyCode": 79,
+                "type": 8,
+                "id": 1
+            },
+            {
+                "keyCode": 79,
+                "type": 8,
+                "id": 2
+            },
+            {
+                "keyCode": 79,
+                "type": 8,
+                "id": 3
+            },
+            {
+                "keyCode": 226,
+                "type": 7,
+                "id": 4
+            }
+        ],
+        "id": 14,
+        "name": "right 3 lines",
+        "macro": "LEFT ⌥ → → → LEFT ⌥"
+    },
+    {
+        "actions": [
+            {
+                "keyCode": 231,
+                "type": 6,
+                "id": 0
+            },
+            {
+                "keyCode": 4,
+                "type": 8,
+                "id": 1
+            },
+            {
+                "keyCode": 231,
+                "type": 7,
+                "id": 2
+            },
+            {
+                "keyCode": 42,
+                "type": 8,
+                "id": 3
+            }
+        ],
+        "id": 15,
+        "name": "delete all",
+        "macro": "RIGHT ⌘ A RIGHT ⌘ BACKSPACE"
+    }
+]
