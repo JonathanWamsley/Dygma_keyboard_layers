@@ -29,88 +29,90 @@
     {
         "actions": [
             {
-                "keyCode": 225,
                 "type": 6,
-                "id": 0
+                "keyCode": 225
             },
             {
-                "keyCode": 82,
                 "type": 8,
-                "id": 1
+                "keyCode": 82
             },
             {
-                "keyCode": 74,
+                "type": 6,
+                "keyCode": 227
+            },
+            {
                 "type": 8,
-                "id": 2
+                "keyCode": 80
             },
             {
-                "keyCode": 225,
                 "type": 7,
-                "id": 3
+                "keyCode": 227
+            },
+            {
+                "type": 7,
+                "keyCode": 225
             }
         ],
         "id": 1,
         "name": "up character select",
-        "macro": "SHIFT ↑ HOME SHIFT"
+        "macro": "SHIFT ↑ LEFT ⌘ ← LEFT ⌘ SHIFT"
     },
     {
         "actions": [
             {
-                "keyCode": 225,
                 "type": 6,
-                "id": 0
+                "keyCode": 225
             },
             {
-                "keyCode": 81,
                 "type": 8,
-                "id": 1
+                "keyCode": 81
             },
             {
-                "keyCode": 77,
+                "type": 6,
+                "keyCode": 227
+            },
+            {
                 "type": 8,
-                "id": 2
+                "keyCode": 79
             },
             {
-                "keyCode": 225,
                 "type": 7,
-                "id": 3
+                "keyCode": 227
+            },
+            {
+                "type": 7,
+                "keyCode": 225
             }
         ],
         "id": 2,
         "name": "down character select",
-        "macro": "SHIFT ↓ END SHIFT"
+        "macro": "SHIFT ↓ LEFT ⌘ → LEFT ⌘ SHIFT"
     },
     {
         "actions": [
             {
-                "keyCode": 226,
                 "type": 6,
-                "id": 0
+                "keyCode": 226
             },
             {
-                "keyCode": 80,
                 "type": 8,
-                "id": 1
+                "keyCode": 80
             },
             {
-                "keyCode": 225,
                 "type": 6,
-                "id": 2
+                "keyCode": 225
             },
             {
-                "keyCode": 79,
                 "type": 8,
-                "id": 3
+                "keyCode": 79
             },
             {
-                "keyCode": 225,
                 "type": 7,
-                "id": 4
+                "keyCode": 225
             },
             {
-                "keyCode": 226,
                 "type": 7,
-                "id": 5
+                "keyCode": 226
             }
         ],
         "id": 3,
@@ -120,29 +122,41 @@
     {
         "actions": [
             {
-                "keyCode": 74,
-                "type": 8,
-                "id": 0
-            },
-            {
-                "keyCode": 225,
                 "type": 6,
-                "id": 1
+                "keyCode": 227
             },
             {
-                "keyCode": 77,
                 "type": 8,
-                "id": 2
+                "keyCode": 80
             },
             {
-                "keyCode": 225,
                 "type": 7,
-                "id": 3
+                "keyCode": 227
+            },
+            {
+                "type": 6,
+                "keyCode": 225
+            },
+            {
+                "type": 6,
+                "keyCode": 227
+            },
+            {
+                "type": 8,
+                "keyCode": 79
+            },
+            {
+                "type": 7,
+                "keyCode": 227
+            },
+            {
+                "type": 7,
+                "keyCode": 225
             }
         ],
         "id": 4,
         "name": "select line",
-        "macro": "HOME SHIFT END SHIFT"
+        "macro": "LEFT ⌘ ← LEFT ⌘ SHIFT LEFT ⌘ → LEFT ⌘ SHIFT"
     },
     {
         "actions": [
@@ -239,8 +253,16 @@
     {
         "actions": [
             {
+                "type": 6,
+                "keyCode": 224
+            },
+            {
                 "type": 8,
-                "keyCode": 74
+                "keyCode": 4
+            },
+            {
+                "type": 7,
+                "keyCode": 224
             },
             {
                 "type": 8,
@@ -253,7 +275,7 @@
         ],
         "id": 9,
         "name": "new line above",
-        "macro": "HOME ENTER ↑"
+        "macro": "CTRL A CTRL ENTER ↑"
     },
     {
         "actions": [
@@ -339,29 +361,24 @@
     {
         "actions": [
             {
-                "keyCode": 226,
                 "type": 6,
-                "id": 0
+                "keyCode": 226
             },
             {
-                "keyCode": 80,
                 "type": 8,
-                "id": 1
+                "keyCode": 80
             },
             {
-                "keyCode": 80,
                 "type": 8,
-                "id": 2
+                "keyCode": 80
             },
             {
-                "keyCode": 80,
                 "type": 8,
-                "id": 3
+                "keyCode": 80
             },
             {
-                "keyCode": 226,
                 "type": 7,
-                "id": 4
+                "keyCode": 226
             }
         ],
         "id": 13,
@@ -371,29 +388,24 @@
     {
         "actions": [
             {
-                "keyCode": 226,
                 "type": 6,
-                "id": 0
+                "keyCode": 226
             },
             {
-                "keyCode": 79,
                 "type": 8,
-                "id": 1
+                "keyCode": 79
             },
             {
-                "keyCode": 79,
                 "type": 8,
-                "id": 2
+                "keyCode": 79
             },
             {
-                "keyCode": 79,
                 "type": 8,
-                "id": 3
+                "keyCode": 79
             },
             {
-                "keyCode": 226,
                 "type": 7,
-                "id": 4
+                "keyCode": 226
             }
         ],
         "id": 14,
@@ -403,28 +415,70 @@
     {
         "actions": [
             {
-                "keyCode": 231,
                 "type": 6,
-                "id": 0
+                "keyCode": 231
             },
             {
-                "keyCode": 4,
                 "type": 8,
-                "id": 1
+                "keyCode": 4
             },
             {
-                "keyCode": 231,
                 "type": 7,
-                "id": 2
+                "keyCode": 231
             },
             {
-                "keyCode": 42,
                 "type": 8,
-                "id": 3
+                "keyCode": 42
             }
         ],
         "id": 15,
         "name": "delete all",
         "macro": "RIGHT ⌘ A RIGHT ⌘ BACKSPACE"
+    },
+    {
+        "actions": [
+            {
+                "type": 6,
+                "keyCode": 227
+            },
+            {
+                "type": 3,
+                "keyCode": 20545
+            },
+            {
+                "type": 7,
+                "keyCode": 227
+            }
+        ],
+        "id": 16,
+        "name": "left click, new tab",
+        "macro": "LEFT ⌘ LEFT LEFT ⌘"
+    },
+    {
+        "actions": [
+            {
+                "type": 6,
+                "keyCode": 225
+            },
+            {
+                "type": 6,
+                "keyCode": 227
+            },
+            {
+                "type": 3,
+                "keyCode": 20545
+            },
+            {
+                "type": 7,
+                "keyCode": 227
+            },
+            {
+                "type": 7,
+                "keyCode": 225
+            }
+        ],
+        "id": 17,
+        "name": "left click, new tab, jump into",
+        "macro": "SHIFT LEFT ⌘ LEFT LEFT ⌘ SHIFT"
     }
 ]
