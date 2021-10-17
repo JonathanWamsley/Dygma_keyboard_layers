@@ -1,15 +1,15 @@
 {
   "layerNames": [
     "Base Layer",
-    "Nav/Edit",
-    "Hyper Nav/Edit",
+    "Shift",
     "Numpad",
-    "Shift Layer",
-    "Screen/Chrome",
-    "",
-    "Terminal",
-    "VS Code",
-    "Mouse Layer"
+    "Edit/Nav",
+    "Hyper Edit/Nav",
+    "Chrome/Screen",
+    "VS Code: Editor",
+    "VS Code: Terminal",
+    "Mouse",
+    "Test"
   ],
   "keymap": [
     {
@@ -115,25 +115,161 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 53867,
-      "label": "delet",
-      "extraLabel": "MACRO"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 4138,
-      "label": "BACKSPACE",
-      "extraLabel": "G+"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 270,
-      "label": "K",
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 4636,
+      "label": "Y",
+      "extraLabel": "A+G+"
+    },
+    {
+      "keyCode": 4632,
+      "label": "U",
+      "extraLabel": "A+G+"
+    },
+    {
+      "keyCode": 4620,
+      "label": "I",
+      "extraLabel": "A+G+"
+    },
+    {
+      "keyCode": 4626,
+      "label": "O",
+      "extraLabel": "A+G+"
+    },
+    {
+      "keyCode": 4627,
+      "label": "P",
+      "extraLabel": "A+G+"
+    },
+    {
+      "keyCode": 567,
+      "label": ".",
+      "extraLabel": "A+"
+    },
+    {
+      "keyCode": 6960,
+      "label": "]",
+      "extraLabel": "Hyper+"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 262,
+      "label": "C",
       "extraLabel": "C+"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 4621,
+      "label": "J",
+      "extraLabel": "A+G+"
+    },
+    {
+      "keyCode": 4622,
+      "label": "K",
+      "extraLabel": "A+G+"
+    },
+    {
+      "keyCode": 4623,
+      "label": "L",
+      "extraLabel": "A+G+"
     },
     {
       "keyCode": 65535,
@@ -142,80 +278,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 6226,
-      "label": "↑",
-      "extraLabel": "S+G+"
-    },
-    {
-      "keyCode": 6224,
-      "label": "←",
-      "extraLabel": "S+G+"
-    },
-    {
-      "keyCode": 53864,
-      "label": "up 3 ",
-      "extraLabel": "MACRO"
-    },
-    {
-      "keyCode": 6223,
-      "label": "→",
-      "extraLabel": "S+G+"
-    },
-    {
-      "keyCode": 53853,
-      "label": "up ch",
-      "extraLabel": "MACRO"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 4100,
-      "label": "A",
-      "extraLabel": "G+"
-    },
-    {
-      "keyCode": 554,
-      "label": "BACKSPACE",
-      "extraLabel": "A+"
-    },
-    {
-      "keyCode": 588,
-      "label": "DEL",
-      "extraLabel": "A+"
+      "keyCode": 6964,
+      "label": "'",
+      "extraLabel": "Hyper+"
     },
     {
       "keyCode": 65535,
@@ -248,29 +313,16 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 2640,
-      "label": "←",
-      "extraLabel": "A+S+"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 592,
-      "label": "←",
-      "extraLabel": "A+"
-    },
-    {
-      "keyCode": 53863,
-      "label": "down ",
-      "extraLabel": "MACRO"
-    },
-    {
-      "keyCode": 591,
-      "label": "→",
-      "extraLabel": "A+"
-    },
-    {
-      "keyCode": 2639,
-      "label": "→",
-      "extraLabel": "A+S+"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
@@ -297,24 +349,14 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 4125,
-      "label": "Z",
-      "extraLabel": "G+"
+      "keyCode": 4625,
+      "label": "N",
+      "extraLabel": "A+G+"
     },
     {
-      "keyCode": 4123,
-      "label": "X",
-      "extraLabel": "G+"
-    },
-    {
-      "keyCode": 4102,
-      "label": "C",
-      "extraLabel": "G+"
-    },
-    {
-      "keyCode": 4121,
-      "label": "V",
-      "extraLabel": "G+"
+      "keyCode": 4624,
+      "label": "M",
+      "extraLabel": "A+G+"
     },
     {
       "keyCode": 65535,
@@ -329,42 +371,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 6225,
-      "label": "↓",
-      "extraLabel": "S+G+"
-    },
-    {
-      "keyCode": 53865,
-      "label": "left ",
-      "extraLabel": "MACRO"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 53866,
-      "label": "right",
-      "extraLabel": "MACRO"
-    },
-    {
-      "keyCode": 53854,
-      "label": "down ",
-      "extraLabel": "MACRO"
+      "keyCode": 4664,
+      "label": "/",
+      "extraLabel": "A+G+"
     },
     {
       "keyCode": 65535,
@@ -470,138 +479,138 @@
     }
   ],
   "colormap": [
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    11,
-    11,
-    11,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     15,
     15,
-    5,
+    15,
+    15,
+    15,
+    0,
+    15,
+    15,
+    15,
+    15,
+    15,
+    0,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    11,
+    11,
+    3,
+    4,
     1,
+    4,
     11,
+    0,
     11,
     15,
-    15,
-    6,
-    15,
+    4,
+    1,
+    4,
+    11,
     0,
-    0,
-    0,
-    0,
+    3,
     12,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
     15,
-    15,
-    1,
-    1,
-    4,
-    1,
-    3,
-    5,
-    15,
-    1,
-    4,
-    4,
-    4,
-    1,
-    5,
-    1,
-    4,
-    14,
-    4,
-    3,
-    5,
-    5,
-    5,
-    5,
-    5,
-    6,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
   ],
   "palette": [
     {

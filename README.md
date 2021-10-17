@@ -22,8 +22,18 @@ In general, navigation and selecting text macros are on the right half. Editing 
 
 ## Screen(spectacle) and Chrome manipulation layer
 
-The left side of the keyboard contains screen manipulation macros. The right side of the keyboard contains Chrome manipulating macros.
+Update: The sides have been swapped. This is because the find in chrome is very similar command to a find in vs code and I wanted them to be in the same position.
+
+The ~~left~~ **Right** side of the keyboard contains screen manipulation macros. The ~~right~~**Left** side of the keyboard contains Chrome manipulating macros.
 
 [![IMAGE_ALT](https://img.youtube.com/vi/nguNHGjNmUs/0.jpg)](https://www.youtube.com/watch?v=nguNHGjNmUs)
 
-![screen/chrome manipulation layer](imgs/screen-chrome_layer.png)
+![screen/chrome manipulation layer](imgs/chrome-screen_layer.png)
+
+## VS Code Editor and Terminal Layer
+
+[![IMAGE_ALT](https://img.youtube.com/vi/8xtXcrzF5Xw/0.jpg)](https://www.youtube.com/watch?v=8xtXcrzF5Xw)
+
+![Terminal Layer](imgs/vs-code-terminal_layer.png)
+
+![Terminal Layer](imgs/vs-code-edit_layer.png)
